@@ -34,13 +34,16 @@ LoanGuard Insights aims to help mortgage lenders predict potential loan defaults
 ## Data Sources:
 The data for this project will be stored in an AWS S3 Bucket, named `ads508-group7`, which will interact with AWS SageMaker for model development. The following four datasets will be uploaded to the S3 bucket:
 
-1. **Arrest Data from 2020 to Present**
-csv file with 25 columns and 338,332 Rows
-2. **Crime Data 2020 to Present**
+1. **Arrest Data from 2020 to Present:**
+csv file with 25 columns and 338,332 rows
+https://catalog.data.gov/dataset/arrest-data-from-2020-to-present/
+3. **Crime Data 2020 to Present:**
 csv file with 28 Columns and 1,005,104 rows
-3. **2024 Registered Foreclosures**
+https://catalog.data.gov/dataset/crime-data-from-2020-to-present
+5. **2024 Registered Foreclosures:**
 csv file with 18 Columns and 2,009 rows
-4. **2023 Registered Foreclosures**
+https://catalog.data.gov/dataset/2024-registered-foreclosure-properties
+7. **2023 Registered Foreclosures:**
 csv file with 18 Columns and 2,080 rows
-
+https://catalog.data.gov/dataset/2023-registered-foreclosure-properties
 
