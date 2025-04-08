@@ -47,3 +47,6 @@ https://catalog.data.gov/dataset/2024-registered-foreclosure-properties
 csv file with 18 Columns and 2,080 rows
 https://catalog.data.gov/dataset/2023-registered-foreclosure-properties
 
+## References:
+
+## Presentation and Project:
