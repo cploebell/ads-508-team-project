@@ -20,3 +20,13 @@ LoanGuard Insights is a for-profit consulting company in the real estate sector 
 
 ## Problem Statement:
 LoanGuard Insights aims to help mortgage lenders predict potential loan defaults by identifying areas at high risk for foreclosure. The company seeks to address the challenge of understanding the correlation between crime rates, arrests, and foreclosure patterns in Los Angeles. By leveraging publicly available data, the goal is to develop a predictive model that can identify crime-prone areas with higher foreclosure risk, providing lenders with actionable insights to mitigate financial risks.
+
+## Goals:
+- Identify high-risk areas in Los Angeles for foreclosures, and offer actionable insight on lending strategies in areas found to be high-risk
+- Develop a predictive model to predict future home foreclosures by analyzing crime and arrest data in the area
+- Provide insight to adjust future lending strategies in order to mitigate losses 
+
+## Non-Goals:
+- This project will not focus on specific individuals or properties that are at risk, instead focus on areas
+- It will not focus on analyzing the crime data or advocating strategies on policing for the city of Los Angeles
+- It will not forecast the economic state or fluctuations of the housing market
