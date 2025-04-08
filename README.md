@@ -24,9 +24,23 @@ LoanGuard Insights aims to help mortgage lenders predict potential loan defaults
 ## Goals:
 - Identify high-risk areas in Los Angeles for foreclosures, and offer actionable insight on lending strategies in areas found to be high-risk
 - Develop a predictive model to predict future home foreclosures by analyzing crime and arrest data in the area
-- Provide insight to adjust future lending strategies in order to mitigate losses 
+- Provide insight to adjust future lending strategies in order to mitigate losses
 
 ## Non-Goals:
 - This project will not focus on specific individuals or properties that are at risk, instead focus on areas
 - It will not focus on analyzing the crime data or advocating strategies on policing for the city of Los Angeles
 - It will not forecast the economic state or fluctuations of the housing market
+
+## Data Sources:
+The data for this project will be stored in an AWS S3 Bucket, named `ads508-group7`, which will interact with AWS SageMaker for model development. The following four datasets will be uploaded to the S3 bucket:
+
+1. **Arrest Data from 2020 to Present**
+csv file with 25 columns and 338,332 Rows
+2. **Crime Data 2020 to Present**
+csv file with 28 Columns and 1,005,104 rows
+3. **2024 Registered Foreclosures**
+csv file with 18 Columns and 2,009 rows
+4. **2023 Registered Foreclosures**
+csv file with 18 Columns and 2,080 rows
+
+
