@@ -49,5 +49,7 @@ https://catalog.data.gov/dataset/2023-registered-foreclosure-properties
 
 ## References:
 Kelleher, J., Namee, B.& D’Arcy, A. (2015). Fundamentals of Machine Learning for Predictive Data Analytics. Algorithms, Worked Examples, and Case Studies. MIT Press.
+
 Goodstein, R. M., & Lee, Y. Y. (2010). Do foreclosures increase crime? FDIC Center for Financial Research Working Paper No. 2010-05. Federal Deposit Insurance Corporation.
+
 West, A. (2025, January 17). Brief guide to Amazon SageMaker algorithms: Time series & computer vision. Protagona. https://medium.com/protagona/brief-guide-to-amazon-sagemaker-algorithms-time-series-computer-vision-d15ea380e3d7
